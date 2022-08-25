@@ -1,3 +1,6 @@
-# AI-project-2
 
-Makefile may not be useful since it's specific to embarcadero dev-c++ IDE
+Michael Mondragon
+Alex Martin
+Adam McBay
+
+Create an intelligent computer expert system for a puzzle that solves the puzzle through 3 different heuristic formulas.
